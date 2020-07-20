@@ -1,7 +1,5 @@
 ### Hi there, welcome to my GitHub profil 👋
 
-<!--
-**VictorGreiveldingerHub/VictorGreiveldingerHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Greiveldinger Victor, i'm 24 and living in Metz near Luxembourg. 
 I followed the O'clock courses for 5 intensive months which allowed me to build a database in HTML / CSS, Javascript (React and Data)
@@ -17,4 +15,4 @@ I followed the O'clock courses for 5 intensive months which allowed me to build 
 - 😄 Pronouns: Giis
 
 See you soon !
--->
+
