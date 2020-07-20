@@ -15,4 +15,6 @@ I followed the O'clock courses for 5 intensive months which allowed me to build 
           - [LinkedIN](https://www.linkedin.com/in/victor-greiveldinger-0b21471a7/)
           - victorgreiveldinger@gmail.com         
 - 😄 Pronouns: Giis
+
+See you soon !
 -->
