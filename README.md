@@ -1,18 +1,17 @@
-### Hi there, welcome to my GitHub profil 👋
+### Bonjour à toutes et à tous 👋
 
 
-My name is Greiveldinger Victor, i'm 24 and living in Metz near Luxembourg. 
-I followed the O'clock courses for 5 intensive months which allowed me to build a database in HTML / CSS, Javascript (React and Data)
+Je m'appelle Victor Greiveldinger, 25 ans et je vis à Metz. 
+J'ai suivi au cours de l'année 2019 et 2020 une formation de dévoloppeur Fullstack Javascript avec O'Clock. J'y ai appris à utiliser le HTML CSS Javascript (Front & Back) ainsi que React.
 
-
-- 🌱 I’m currently learning HTML/CSS, Javascript and 2 spé. which are React and Data 
-- 👯 I’m looking to collaborate 
-     on any job can bring me more experience, and why not a contact in Luxembourg to have works opportunities.
+- 🌱 A la recherche d'un stage, job pour ma premiere experience. (Junior)
+- Metz - Luxembourg
      
-- 📫 Contact me on :
+- 📫 Contact :
           - [LinkedIN](https://www.linkedin.com/in/victor-greiveldinger-0b21471a7/)
-          - victorgreiveldinger@gmail.com         
-- 😄 Pronouns: Giis
+          - victorgreiveldinger@gmail.com
+  
+- 😄 AKA : Giis
 
-See you soon !
+A bientot !
 
