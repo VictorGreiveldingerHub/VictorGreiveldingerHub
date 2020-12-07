@@ -13,5 +13,7 @@ J'ai suivi au cours de l'année 2019 et 2020 une formation de dévoloppeur Fulls
   
 - 😄 AKA : Giis
 
+- Site bienôt en production !!
+
 A bientot !
 
