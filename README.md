@@ -18,7 +18,7 @@ J'ai suivi au cours de l'année 2019 et 2020 une formation de dévoloppeur Fulls
      * React Gradient pour l'utilisation de React Router, Redux, React-Redux et des hooks associés (useSelector, useDispatch).
      * Projet Solidity (React) en cours, dApp type serious game pour apprendre les bases de la blockchain.
 
-- Site personnel en production.
+- Site personnel en production - Javascript Vanilla - Three Js ?.
 
 A bientot !
 
